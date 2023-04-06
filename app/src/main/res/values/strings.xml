@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lima</string>
+    <string name="wordcount">Word Count: 0</string>
+    <string name="bodyTextHint"><![CDATA[>]]></string>
+    <string name="fileTitle">TITLE</string>
+    <string name="btnShare">Share</string>
+    <string name="shareError">Error sharing file.</string>
+    <string name="shareSuccess">File shared.</string>
+    <string name="btnNewDocument">New Document</string>
+</resources>

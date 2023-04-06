@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Theme.Lima" parent="Theme.MaterialComponents.DayNight.NoActionBar">-->
+        <!-- Primary brand color. -->
+    <style name="Theme.Lima" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/dark_rose</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="backgroundColor">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/backgroundColor</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>
